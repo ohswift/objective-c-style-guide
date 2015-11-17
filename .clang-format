@@ -1,0 +1,16 @@
+---
+Language:        Cpp
+BasedOnStyle:  Mozilla
+AccessModifierOffset: -2
+DerivePointerAlignment: false
+PointerAlignment: Right
+ConstructorInitializerIndentWidth: 4
+PointerAlignment: Right
+ContinuationIndentWidth: 4
+IndentCaseLabels: false
+IndentWidth:     4
+ObjCBlockIndentWidth: 4
+TabWidth:        4
+UseTab:          Never
+...
+
